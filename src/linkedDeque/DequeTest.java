@@ -7,9 +7,6 @@ import java.util.NoSuchElementException;
 
 /**
  * Used to test out most of the methods in the LinkedDeque
- * NOTE: Won't compile until LinkedDeque up and running
- *
- * @author Seth
  */
 public final class DequeTest {
 	private DequeTest() {}
